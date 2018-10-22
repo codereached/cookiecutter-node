@@ -1,4 +1,4 @@
-# cookiecutter-ruby-service
+# cookiecutter-node
 
 This is a [cookiecutter](https://github.com/audreyr/cookiecutter) for templating. 
 
